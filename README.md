@@ -1,36 +1,37 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+## Welcome to GitHub Pages
 
-![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
+You can use the [editor on GitHub](https://github.com/BroBigHammer/BroBigHammer.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-## Demo
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+### Markdown
 
-The main page would look like this:
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
+```markdown
+Syntax highlighted code block
 
-The post page would look like this:
+# Header 1
+## Header 2
+### Header 3
 
-![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
+- Bulleted
+- List
 
-## Features
+1. Numbered
+2. List
 
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](http://fontawesome.io/)
-- [Disqus](https://disqus.com/)
-- [Analytics](https://analytics.google.com/analytics/web/)
-- Support Emoji
+**Bold** and _Italic_ and `Code` text
 
-## Installation:
+[Link](url) and ![Image](src)
+```
 
-Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-## License
+### Jekyll Themes
 
-GNU General Public License v3.0
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BroBigHammer/BroBigHammer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-## Donate
+### Support or Contact
 
-<p>If you like the themes that I create you can become my sponsor on <a href="https://www.patreon.com/artemsheludko" target="_blank">Patreon</a>.
-<p align="center"><b>Thank you for your support ❤️</b></p>
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
